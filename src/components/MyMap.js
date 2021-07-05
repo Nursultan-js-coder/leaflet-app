@@ -9,7 +9,7 @@ const MyMap = () => {
   });
   return (
     <div>
-      <h2 style={{ textAlign: 'center' }}>My Map</h2>
+      <h2 style={{ textAlign: 'center' }}>My Map!</h2>
       <Map
         style={{ width: '100%', height: '600px' }}
         zoom={10}
